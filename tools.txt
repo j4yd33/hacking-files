@@ -1,0 +1,56 @@
+Ferramentas para pentest/bugbounty. 
+Os links são direto dos criadores das ferramentas.
+
+
+###############################RECON##########################################
+BBHT
+# PACOTE DE FERRAMENTAS POR @NAHAMSEC, top13 hackerone e top50 bugcrowd
+# TODAS AS SEGUINTES FERRAMENTAS FAZEM PARTE DO BBHT:
+https://github.com/nahamsec/bbht
+-dirsearch
+-JSParser
+-knockpy
+-lazys3
+-recon_profile
+-sqlmap-dev
+-Sublist3r
+-teh_s3_bucketeers
+-virtual-host-discovery
+-wpscan
+-webscreenshot
+-Massdns
+-Asnlookup
+-Unfurl
+-Waybackurls
+-Httprobe
+-Seclists collection
+
+# DESCRIÇÕES
+recon_profile: script em bash para otimizar a automatização do reconhecimento
+wpscan: scan de vulnerabilidades em site baseado em wordpress
+dirsearch: reconhecimento automatizado de diretórios
+lazyrecon: reconhecimento automatizado de domínios do alvo(caso dê erro, crie o diretório ~/recondata/xxx/xxx.com/)
+sublist3r: reconhecimento automatizado de subdomínios do alvo(faz parte do 
+massdns: reconhecimento de dns
+httprobe: Faz uma lista de domínios e verifica se há servidores HTTP e HTTPS em funcionamento
+meg: Busque muitos caminhos para muitos hosts - sem matar os hosts
+assetfinder: Encontre domínios e subdomínios relacionados a um determinado domínio
+waybackurls: Busque todos os URLs que a Wayback Machine conhece para um domínio
+Seclists collection: Wordlists de todos os tipos, por @Nahamsec.
+asnlookup: procura por AS.
+################################################################################################################################################################################
+
+
+###################################XSS###############################
+XSS Strike: Automatização de exploração de falhas XSS.
+https://github.com/s0md3v/XSStrike
+#####################################################################
+
+
+
+
+
+
+
+Não adianta ter nenhuma das ferramentas se não souber como usar.
+Aconselho ler as metodologias, antes de usar.

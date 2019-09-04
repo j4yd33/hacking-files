@@ -1,0 +1,47 @@
+Reports interessantes para estudar.
+
+#BOUNTY U$20.160 - TWITTER
+#https://hackerone.com/reports/591295
+Portential pre-auth RCE on Twitter VPN
+#Artigo: us-19-Tsai-Infiltrating-Corporate-Intranet-Like-NSA.pdf
+
+
+#BOUNTY U$20.000 - PAYPAL
+#https://hackerone.com/reports/510152
+Bypass for #488147 enables stored XSS on https://paypal.com/signin again
+#Artigo: us-19-Kettle-HTTP-Desync-Attacks-Smashing-Into-The-Cell-Next-Door.pdf
+
+
+#BOUNTY U$18.900 - PAYPAL
+#https://hackerone.com/reports/488147
+Stored XSS on https://paypal.com/signin via cache poisoning
+#Artigo: https://portswigger.net/blog/http-desync-attacks-request-smuggling-reborn
+
+
+#BOUNTY U$10.500 - PAYPAL
+#https://hackerone.com/reports/415081
+IDOR to add secondary users in www.paypal.com/businessmanage/users/api/v1/users
+
+
+#BOUNTY U$10.000 - SEMRUSH
+#https://hackerone.com/reports/403417
+Remote Code Execution on www.semrush.com/my_reports on Logo upload
+
+
+#BOUNTY U$4.500 - GITLAB
+#https://hackerone.com/reports/526325
+Stored XSS in Wiki pages
+
+
+#BOUNTY U$2.500 - KASPERSKY
+#https://hackerone.com/reports/463915
+Opening up a Universal XSS vulnerability in Microsoft Edge
+
+
+#BOUNTY U$4.000 - STARBUCKS
+#https://hackerone.com/reports/531051
+SQL Injection Extracts Starbucks Enterprise Accounting, Financial, Payroll Database
+
+#BOUNTY U$1.000 - VALVE
+#https://hackerone.com/reports/291057
+MySQL username and password leaked in developer.valvesoftware.com via source code dislosure
