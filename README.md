@@ -1,2 +1,1 @@
-# bugbounty-study
-Arquivos para estudo sobre Bug Bounty.
+# Arquivos de estudo sobre Pentest e BugBounty.
